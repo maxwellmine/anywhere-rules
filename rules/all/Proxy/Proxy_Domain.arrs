@@ -1,0 +1,11 @@
+# NAME: Proxy
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Proxy/Proxy_Domain.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 0
+# SKIPPED: 6644
+# UPSTREAM-UPDATED: 2026-05-16 02:35:13
+# SKIPPED-TYPES: UNKNOWN=6644
+
+name = Proxy

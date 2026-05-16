@@ -1,0 +1,11 @@
+# NAME: AdvertisingTest
+# AUTHOR: blackmatrix7
+# SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/AdvertisingTest/AdvertisingTest_Domain.list
+# GENERATED-FOR: Anywhere Routing Rule Set
+# NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
+# RULES: 0
+# SKIPPED: 282760
+# UPSTREAM-UPDATED: 2026-05-16 02:32:59
+# SKIPPED-TYPES: UNKNOWN=282760
+
+name = AdvertisingTest
