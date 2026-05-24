@@ -123,6 +123,7 @@ name = Ads_AWAvenue
 2, adsfilebssdlbig.ali.kugou.com
 2, adsfileretry.service.kugou.com
 2, adsfs-sdkconfig.heytapimage.com
+2, adsfs.heytapimage.com
 2, adsfs.oppomobile.com
 2, adslvfile.qq.com
 2, adsmart.konka.com
@@ -341,7 +342,6 @@ name = Ads_AWAvenue
 2, doubleclick-cn.net
 2, download.changhong.upgrade2.huan.tv
 2, downloadxml.changhong.upgrade2.huan.tv
-2, drcn-weather.cloud.huawei.com
 2, dsp-x.jd.com
 2, dsp.fcbox.com
 2, dualstack-logs.amap.com
