@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Global/Global_All_No_Resolve.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 34309
+# RULES: 34310
 # SKIPPED: 47
-# UPSTREAM-UPDATED: 2026-05-26 02:35:14
+# UPSTREAM-UPDATED: 2026-05-28 02:48:13
 # SKIPPED-TYPES: PROCESS-NAME=1, USER-AGENT=46
 
 name = Global
@@ -16002,6 +16002,7 @@ name = Global
 2, midentsolutions.com
 2, midfife.ac.uk
 2, midhurst.ac.uk
+2, midjourney.com
 2, midkent.ac.uk
 2, midlands3cities.ac.uk
 2, midlands4cities.ac.uk
@@ -16647,7 +16648,6 @@ name = Global
 2, moxing.news
 2, moystoys.com
 2, mozgcp.net
-2, mozilla.ai
 2, mozilla.com
 2, mozilla.community
 2, mozilla.net
@@ -31201,6 +31201,7 @@ name = Global
 2, movements.org
 2, moves-export.com
 2, moviefap.com
+2, mozilla.ai
 2, mozilla.org
 2, moztw.org
 2, mp3buscador.com

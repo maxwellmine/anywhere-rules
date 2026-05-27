@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Proxy/Proxy_All_No_Resolve.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 6778
+# RULES: 6779
 # SKIPPED: 8
-# UPSTREAM-UPDATED: 2026-05-24 02:23:41
+# UPSTREAM-UPDATED: 2026-05-28 02:48:36
 # SKIPPED-TYPES: USER-AGENT=8
 
 name = Proxy
@@ -3674,6 +3674,7 @@ name = Proxy
 2, movements.org
 2, moves-export.com
 2, moviefap.com
+2, mozilla.ai
 2, mozilla.org
 2, moztw.org
 2, mp3buscador.com

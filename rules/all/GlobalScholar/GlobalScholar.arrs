@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/GlobalScholar/GlobalScholar.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 229
+# RULES: 230
 # SKIPPED: 0
-# UPSTREAM-UPDATED: 2025-06-06 09:19:58
+# UPSTREAM-UPDATED: 2026-05-28 02:51:09
 
 name = GlobalScholar
 2, scholar.google.com
@@ -147,6 +147,7 @@ name = GlobalScholar
 2, oecd-ilibrary.org
 2, oed.com
 2, omscr.com
+2, optica.org
 2, osapublishing.org
 2, oup.com
 2, ouplaw.com
