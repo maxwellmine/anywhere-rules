@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Global/Global_All_No_Resolve.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 34310
+# RULES: 34344
 # SKIPPED: 47
-# UPSTREAM-UPDATED: 2026-05-28 02:48:13
+# UPSTREAM-UPDATED: 2026-05-30 02:54:15
 # SKIPPED-TYPES: PROCESS-NAME=1, USER-AGENT=46
 
 name = Global
@@ -7567,7 +7567,6 @@ name = Global
 2, douzinnsi-eromannga.com
 2, dovercollege.ac.uk
 2, dovertechnicalcollege.ac.uk
-2, dowjones.io
 2, dowjoneson.com
 2, download.com
 2, download.qatp1.net
@@ -8297,6 +8296,7 @@ name = Global
 2, electronicsignature.ru
 2, electronjs.org
 2, element.io
+2, elementary.io
 2, elephantlist.com
 2, elephantsdream.org
 2, elephanttube.com
@@ -10620,6 +10620,7 @@ name = Global
 2, gnailapp.sbs
 2, gnatwork.ac.uk
 2, gnom-cham.com
+2, gnome.org
 2, gnu.org
 2, gnzi.xyz
 2, gnzi1.top
@@ -11511,6 +11512,7 @@ name = Global
 2, helf.ac.uk
 2, hellofuture.ac.uk
 2, hellokittybeats.com
+2, hellomoto.com
 2, hellosmartbook.com
 2, hellporno.com
 2, hellven.net
@@ -14166,6 +14168,7 @@ name = Global
 2, kclwave.ac.uk
 2, kcollege.ac.uk
 2, kcqsw-na.sbs
+2, kde.org
 2, kdfuli.com
 2, kdy202312.shop
 2, ke-westyorkshire.ac.uk
@@ -15167,6 +15170,7 @@ name = Global
 2, lww-cetl.ac.uk
 2, lwwcn.buzz
 2, lwwcn.xyz
+2, lxqt-project.org
 2, lxxlxx.com
 2, ly.gov.tw
 2, lyellcentre.ac.uk
@@ -15576,6 +15580,7 @@ name = Global
 2, mat6tube.com
 2, match.ac.uk
 2, matchmover.com
+2, mate-desktop.org
 2, materials.ac.uk
 2, materialsnexus.ac.uk
 2, mathcentre.ac.uk
@@ -16615,7 +16620,31 @@ name = Global
 2, motherwell.ac.uk
 2, motiongraphicsandmore.com
 2, motionpictureser.com
+2, moto.com
 2, motolia.com
+2, motorola.ca
+2, motorola.cl
+2, motorola.co
+2, motorola.co.id
+2, motorola.co.jp
+2, motorola.co.th
+2, motorola.co.uk
+2, motorola.com
+2, motorola.com.au
+2, motorola.com.co
+2, motorola.com.pe
+2, motorola.com.pr
+2, motorola.de
+2, motorola.es
+2, motorola.fr
+2, motorola.gr
+2, motorola.in
+2, motorola.it
+2, motorola.net
+2, motorola.vn
+2, motorolacareers.com
+2, motorolanews.com
+2, motorolasolutions.com
 2, motorshowblog.com
 2, mottainai.info
 2, moulton.ac.uk
@@ -19283,6 +19312,7 @@ name = Global
 2, plansondemand.com
 2, plant-phenomics.ac.uk
 2, plantsvszombies2.com
+2, plasma-mobile.org
 2, plasticlabs.com
 2, plastics-cadcam.com
 2, platiecom.ru
@@ -23154,6 +23184,7 @@ name = Global
 2, syntheticbiology.ac.uk
 2, sysinternals.com
 2, sysmic.ac.uk
+2, system76.com
 2, systemicrisk.ac.uk
 2, syzbj36.xyz
 2, szabadeuropa.hu
@@ -26368,6 +26399,7 @@ name = Global
 2, xenoblade.com
 2, xeon.com
 2, xfantazy.com
+2, xfce.org
 2, xfemaledom.com
 2, xfockers.com
 2, xfreehd.com
@@ -26402,6 +26434,7 @@ name = Global
 2, xiaoshuobb.life
 2, xiaoyaoge.xyz
 2, xie56.xyz
+2, xin21.xyz
 2, xinaia-av.buzz
 2, xindelu.com
 2, xinfhw.com
@@ -29083,6 +29116,7 @@ name = Global
 2, doujincafe.com
 2, dowei.org
 2, dowjones.com
+2, dowjones.io
 2, download.dappcdn.com
 2, dphk.org
 2, dpool.top

@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/ChinaMaxNoMedia/ChinaMaxNoMedia.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 12398
+# RULES: 12396
 # SKIPPED: 78
-# UPSTREAM-UPDATED: 2026-05-28 02:50:56
+# UPSTREAM-UPDATED: 2026-05-30 02:56:57
 # SKIPPED-TYPES: IP-ASN=1, PROCESS-NAME=12, USER-AGENT=65
 
 name = ChinaMaxNoMedia
@@ -3562,6 +3562,7 @@ name = ChinaMaxNoMedia
 0, 140.250.0.0/16
 0, 140.255.0.0/16
 0, 140.75.0.0/16
+0, 141.11.219.0/24
 0, 141.11.50.0/24
 0, 142.70.0.0/16
 0, 142.86.0.0/16
@@ -7181,6 +7182,7 @@ name = ChinaMaxNoMedia
 0, 31.133.128.0/18
 0, 31.40.214.0/24
 0, 31.42.183.48/32
+0, 31.77.184.0/22
 0, 35.71.107.0/24
 0, 36.0.0.0/22
 0, 36.0.128.0/17
@@ -8239,7 +8241,6 @@ name = ChinaMaxNoMedia
 0, 81.68.0.0/14
 0, 82.156.0.0/15
 0, 85.12.7.192/28
-0, 85.149.221.0/24
 0, 85.184.245.0/24
 0, 85.209.40.0/22
 0, 87.254.207.0/24
@@ -10777,7 +10778,6 @@ name = ChinaMaxNoMedia
 1, 2602:2a9:d10::/44
 1, 2602:814:f006::/48
 1, 2602:f92a:a46d::/48
-1, 2602:f92a:a46f::/48
 1, 2602:f92a:a47d::/48
 1, 2602:f9ba:10c::/48
 1, 2602:f9ba:a8::/48
@@ -12179,9 +12179,8 @@ name = ChinaMaxNoMedia
 1, 2a0f:1cc5:1034::/47
 1, 2a0f:1cc5:110::/44
 1, 2a0f:1cc5:130::/44
-1, 2a0f:1cc5:140::/43
+1, 2a0f:1cc5:140::/42
 1, 2a0f:1cc5:14::/46
-1, 2a0f:1cc5:160::/44
 1, 2a0f:1cc5:1c00::/47
 1, 2a0f:1cc5:1c02::/48
 1, 2a0f:1cc5:1c20::/48
@@ -12197,13 +12196,13 @@ name = ChinaMaxNoMedia
 1, 2a0f:1cc5:2680::/42
 1, 2a0f:1cc5:2d01::/48
 1, 2a0f:1cc5:2d03::/48
-1, 2a0f:1cc5:3200::/45
-1, 2a0f:1cc5:3208::/47
+1, 2a0f:1cc5:3200::/46
+1, 2a0f:1cc5:3204::/47
+1, 2a0f:1cc5:3206::/48
 1, 2a0f:1cc5:3222::/48
 1, 2a0f:1cc5:600::/47
 1, 2a0f:1cc5:603::/48
 1, 2a0f:1cc5:642::/48
-1, 2a0f:1cc5:645::/48
 1, 2a0f:1cc5:661::/48
 1, 2a0f:1cc5:662::/48
 1, 2a0f:1cc5:6a0::/48
@@ -12211,7 +12210,7 @@ name = ChinaMaxNoMedia
 1, 2a0f:1cc5:f02::/47
 1, 2a0f:1cc5:f04::/47
 1, 2a0f:1cc5:f06::/48
-1, 2a0f:1cc5:f08::/47
+1, 2a0f:1cc5:f09::/48
 1, 2a0f:1cc5:fff::/48
 1, 2a0f:1cc6:b110::/47
 1, 2a0f:1cc6:b210::/47
@@ -12362,7 +12361,6 @@ name = ChinaMaxNoMedia
 1, 2a14:7586:6100::/47
 1, 2a14:7586:6103::/48
 1, 2a14:7586:6104::/48
-1, 2a14:7586:6107::/48
 1, 2a14:7586:6110::/48
 1, 2a14:7586:6300::/44
 1, 2a14:7dc0:506::/48
