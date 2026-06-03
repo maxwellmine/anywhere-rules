@@ -1,7 +1,7 @@
 # NAME: ProxyGFW
 # GENERATED-FOR: Anywhere Routing Rule Set
 # DESCRIPTION: GFW 代理集合
-# RULES: 7594
+# RULES: 7595
 # SKIPPED: 1
 # SKIPPED-TYPES: USER-AGENT=1
 # SOURCES:
@@ -7283,6 +7283,7 @@ name = ProxyGFW
 2, redbull.com
 2, proxmox.com
 2, proporn.com
+2, posthog.com
 2, porndig.com
 2, picacgy.com
 2, picacgp.com

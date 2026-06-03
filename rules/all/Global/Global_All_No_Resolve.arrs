@@ -3,9 +3,9 @@
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Global/Global_All_No_Resolve.list
 # GENERATED-FOR: Anywhere Routing Rule Set
 # NOTE: DOMAIN rules are mapped to Anywhere domain suffix rules.
-# RULES: 34350
+# RULES: 34353
 # SKIPPED: 47
-# UPSTREAM-UPDATED: 2026-06-02 03:41:15
+# UPSTREAM-UPDATED: 2026-06-04 03:19:46
 # SKIPPED-TYPES: PROCESS-NAME=1, USER-AGENT=46
 
 name = Global
@@ -10361,6 +10361,7 @@ name = Global
 2, getfoxyoutside.org
 2, getiton.com
 2, getnews.jp
+2, getpaint.net
 2, getpocket.com
 2, getporn.tv
 2, getprintersupports.com
@@ -18746,6 +18747,7 @@ name = Global
 2, paily.org
 2, painfulpussytortures.com
 2, painnovel.com
+2, paint.net
 2, paipal.com
 2, paipancon.com
 2, paisapay.cc
@@ -23848,6 +23850,7 @@ name = Global
 2, tomovie.net
 2, tomsguide.com
 2, ton.org
+2, toncenter.com
 2, tonec.com
 2, tonicmovies.com
 2, toolforge.org
