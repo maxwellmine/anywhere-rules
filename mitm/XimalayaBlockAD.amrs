@@ -17,7 +17,7 @@ hostname = gslbali.ximalaya.com, search.ximalaya.com, searchwsa.ximalaya.com, mo
 0, 0, ^https://[^/]+/lamia/v1/subscribe/status$, 2, {}
 0, 0, ^https://[^/]+/subscribe/v\d/subscribe/recommend(?:\?|$), 2, {}
 0, 0, ^https://[^/]+/mobile-user/v\d/purchased/recommend/, 2, {}
-0, 100, ^https://[^/]+/community/square/v\d/stream(?:\?|$), ZnVuY3Rpb24gcHJvY2VzcyhjdHgpIHsKICBpZiAoY3R4LnBoYXNlICE9PSAicmVxdWVzdCIgfHwgIWN0eC51cmwpIHJldHVybjsKICBpZiAoIS9cL2NvbW11bml0eVwvc3F1YXJlXC92XGRcL3N0cmVhbVw/Ly50ZXN0KGN0eC51cmwpKSByZXR1cm47CiAgQW55d2hlcmUucmVzcG9uZCh7CiAgICBzdGF0dXM6IDIwMCwKICAgIGhlYWRlcnM6IFtbImNvbnRlbnQtdHlwZSIsICJhcHBsaWNhdGlvbi9qc29uOyBjaGFyc2V0PXV0Zi04Il1dLAogICAgYm9keTogSlNPTi5zdHJpbmdpZnkoeyBkYXRhOiB7IGNhcmRzOiBbeyBjb250ZW50OiB7fSwgdHlwZTogIlJFQ09NTUVORFMiIH1dIH0sIHJldDogMCB9KQogIH0pOwp9
+0, 0, ^https://[^/]+/community/square/v\d/stream(?:\?|$), 2, "{""data"":{""cards"":[{""content"":{},""type"":""RECOMMENDS""}]},""ret"":0}"
 0, 2, ^https://[^/]+/(?:discovery-feed/v\d/mix/|discovery-category/customCategories/|football-portal/diff2/batch(?:\?|$)|nexus-web/v\d/tabs/customTabs(?:\?|$)|mobile-playpage/playpage/tabs/v2/|mobile-user/v\d/homePage/), accept-encoding
 0, 1, ^https://[^/]+/(?:discovery-feed/v\d/mix/|discovery-category/customCategories/|football-portal/diff2/batch(?:\?|$)|nexus-web/v\d/tabs/customTabs(?:\?|$)|mobile-playpage/playpage/tabs/v2/|mobile-user/v\d/homePage/), accept-encoding, identity
 1, 5, ^https://[^/]+/football-portal/diff2/batch(?:\?|$), delete, $.json.ad

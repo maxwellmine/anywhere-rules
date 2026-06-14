@@ -5,5 +5,6 @@ hostname = api.pinduoduo.com, api.yangkeduo.com, mobile.yangkeduo.com
 
 0, 2, ^https://[^/]+/proxy/api/api/express/post/waybill/red_packet/goods_list(?:\?|$), accept-encoding
 0, 1, ^https://[^/]+/proxy/api/api/express/post/waybill/red_packet/goods_list(?:\?|$), accept-encoding, identity
-0, 100, ^https://[^/]+/api/(?:cappuccino/splash|aquarius/hungary/global/homepage\?), ZnVuY3Rpb24gcHJvY2VzcyhjdHgpIHsKICBpZiAoY3R4LnBoYXNlICE9PSAicmVxdWVzdCIgfHwgIWN0eC51cmwpIHJldHVybjsKICB2YXIgdSA9IGN0eC51cmw7CiAgaWYgKC9cL2FwaVwvY2FwcHVjY2lub1wvc3BsYXNoKD86XD98JCkvLnRlc3QodSkpIHsKICAgIEFueXdoZXJlLnJlc3BvbmQoe3N0YXR1czogMjAwLCBoZWFkZXJzOiBbWyJjb250ZW50LXR5cGUiLCAiYXBwbGljYXRpb24vanNvbjsgY2hhcnNldD11dGYtOCJdXSwgYm9keTogInt9In0pOwogICAgcmV0dXJuOwogIH0KICBpZiAoL1wvYXBpXC9hcXVhcml1c1wvaHVuZ2FyeVwvZ2xvYmFsXC9ob21lcGFnZVw/Ly50ZXN0KHUpKSB7CiAgICBBbnl3aGVyZS5yZXNwb25kKHtzdGF0dXM6IDIwMCwgaGVhZGVyczogW1siY29udGVudC10eXBlIiwgImFwcGxpY2F0aW9uL2pzb247IGNoYXJzZXQ9dXRmLTgiXV0sIGJvZHk6ICJ7fSJ9KTsKICB9Cn0=
+0, 0, ^https://[^/]+/api/cappuccino/splash(?:\?|$), 2, {}
+0, 0, ^https://[^/]+/api/aquarius/hungary/global/homepage(?:\?|$), 2, {}
 1, 5, ^https://[^/]+/proxy/api/api/express/post/waybill/red_packet/goods_list(?:\?|$), replace-recursive, list, []
